@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="search_by_albums">Поиск по фильмам...</string>
+    <string name="start_search">Начни поиск!</string>
+    <string name="release_date">Release date:</string>
+    <string name="popularity">Popularity:</string>
+    <string name="description">Description:</string>
+    <string name="country">Country:</string>
+    <string name="popular_movies">Popular Movies</string>
+</resources>
